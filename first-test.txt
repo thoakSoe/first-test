@@ -1,6 +1,4 @@
 this is my test.
-<<<<<<< HEAD
 this is changes in local repository.
-=======
 this is changes in git repository.
->>>>>>> b58a2687cf0257e1c2875ca4c07274932b2d97bd
+
