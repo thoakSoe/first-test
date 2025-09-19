@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is update in local repository.
+=======
+this is first test.
+this is update in remote repository.
+>>>>>>> 9327450ff12b1f05f5be8b913fa6b92adb9803e3
